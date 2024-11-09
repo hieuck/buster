@@ -1,0 +1,307 @@
+{
+    "extensionName": {
+      "message": "Buster: Giải quyết CAPTCHA cho Con người",
+      "description": "Tên của tiện ích mở rộng."
+    },
+  
+    "extensionDescription": {
+      "message": "Tiết kiệm thời gian bằng cách yêu cầu Buster giải quyết CAPTCHA cho bạn.",
+      "description": "Mô tả của tiện ích mở rộng."
+    },
+  
+    "optionSectionTitle_services": {
+      "message": "Dịch vụ",
+      "description": "Tiêu đề của phần tùy chọn."
+    },
+  
+    "optionTitle_speechService": {
+      "message": "Nhận dạng giọng nói",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionValue_speechService_googleSpeechApi": {
+      "message": "Google Cloud Speech-to-Text",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_speechService_ibmSpeechApi": {
+      "message": "IBM Watson Speech to Text",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_speechService_microsoftSpeechApi": {
+      "message": "Microsoft Azure Speech to Text",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_speechService_witSpeechApiDemo": {
+      "message": "Wit.ai (quản lý)",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_speechService_witSpeechApi": {
+      "message": "Wit.ai",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionTitle_microsoftSpeechApiLoc": {
+      "message": "Vị trí API",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_southafricanorth": {
+      "message": "Nam Phi Bắc",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_eastasia": {
+      "message": "Đông Á",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_southeastasia": {
+      "message": "Đông Nam Á",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_australiaeast": {
+      "message": "Úc Đông",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_centralindia": {
+      "message": "Ấn Độ Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_japaneast": {
+      "message": "Nhật Bản Đông",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_japanwest": {
+      "message": "Nhật Bản Tây",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_koreacentral": {
+      "message": "Hàn Quốc Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_canadacentral": {
+      "message": "Canada Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_northeurope": {
+      "message": "Bắc Âu",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_westeurope": {
+      "message": "Tây Âu",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_francecentral": {
+      "message": "Pháp Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_germanywestcentral": {
+      "message": "Đức Tây Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_norwayeast": {
+      "message": "Na Uy Đông",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_swedencentral": {
+      "message": "Thụy Điển Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_switzerlandnorth": {
+      "message": "Thụy Sĩ Bắc",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_switzerlandwest": {
+      "message": "Thụy Sĩ Tây",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_uksouth": {
+      "message": "Vương Quốc Anh Nam",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_uaenorth": {
+      "message": "UAE Bắc",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_brazilsouth": {
+      "message": "Brazil Nam",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_qatarcentral": {
+      "message": "Qatar Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_centralus": {
+      "message": "Mỹ Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_eastus": {
+      "message": "Mỹ Đông",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_eastus2": {
+      "message": "Mỹ Đông 2",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_northcentralus": {
+      "message": "Mỹ Bắc Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_southcentralus": {
+      "message": "Mỹ Nam Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_westcentralus": {
+      "message": "Mỹ Tây Trung tâm",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_westus": {
+      "message": "Mỹ Tây",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_westus2": {
+      "message": "Mỹ Tây 2",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_microsoftSpeechApiLoc_westus3": {
+      "message": "Mỹ Tây 3",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionSectionTitle_client": {
+      "message": "Ứng dụng khách",
+      "description": "Tiêu đề của phần tùy chọn."
+    },
+  
+    "optionSectionDescription_client": {
+      "message": "Ứng dụng khách cho phép bạn mô phỏng các tương tác của người dùng và cải thiện tỷ lệ thành công của tiện ích mở rộng.",
+      "description": "Mô tả của phần tùy chọn."
+    },
+  
+    "optionTitle_simulateUserInput": {
+      "message": "Mô phỏng tương tác của người dùng",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionTitle_navigateWithKeyboard": {
+      "message": "Dẫn hướng bằng bàn phím",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionTitle_autoUpdateClientApp": {
+      "message": "Tự động cập nhật ứng dụng khách",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionSectionTitle_misc": {
+      "message": "Miscellaneous",
+      "description": "Tiêu đề của phần tùy chọn."
+    },
+  
+    "optionTitle_loadEnglishChallenge": {
+      "message": "Tải thử thách bằng tiếng Anh",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionTitle_tryEnglishSpeechModel": {
+      "message": "Thử nhận dạng giọng nói với mô hình tiếng Anh",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionTitle_appTheme": {
+      "message": "Chủ đề",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionValue_appTheme_auto": {
+      "message": "Mặc định hệ thống",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_appTheme_light": {
+      "message": "Sáng",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_appTheme_dark": {
+      "message": "Tối",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_appTheme_custom": {
+      "message": "Tùy chỉnh",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionTitle_appLanguage": {
+      "message": "Ngôn ngữ",
+      "description": "Tiêu đề của tùy chọn."
+    },
+  
+    "optionValue_appLanguage_auto": {
+      "message": "Mặc định hệ thống",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_appLanguage_english": {
+      "message": "Tiếng Anh",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "optionValue_appLanguage_vietnamese": {
+      "message": "Tiếng Việt",
+      "description": "Giá trị của tùy chọn."
+    },
+  
+    "error_invalidResponse": {
+      "message": "Đã xảy ra lỗi khi nhận phản hồi. Vui lòng thử lại.",
+      "description": "Thông báo lỗi khi không thể nhận phản hồi từ dịch vụ."
+    },
+  
+    "error_noApiKey": {
+      "message": "API Key không hợp lệ. Vui lòng kiểm tra cài đặt của bạn.",
+      "description": "Thông báo lỗi khi API key không được cung cấp hoặc không hợp lệ."
+    },
+  
+    "error_networkError": {
+      "message": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn.",
+      "description": "Thông báo lỗi khi có sự cố với kết nối mạng."
+    },
+  
+    "error_invalidSpeechResponse": {
+      "message": "Đã có lỗi với phản hồi nhận dạng giọng nói. Vui lòng thử lại.",
+      "description": "Thông báo lỗi khi có sự cố với phản hồi nhận dạng giọng nói."
+    }
+  }
+  

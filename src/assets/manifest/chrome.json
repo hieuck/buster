@@ -5,9 +5,9 @@
   "version": "0.1.0",
   "author": "Armin Sebastian",
   "homepage_url": "https://github.com/dessant/buster",
-  "default_locale": "en",
+  "default_locale": "vi",
 
-  "minimum_chrome_version": "123.0",
+  "minimum_chrome_version": "100.0",
 
   "permissions": [
     "storage",
